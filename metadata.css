@@ -1,0 +1,19 @@
+/*
+*Tara Frane
+*November 5, 2018
+*Metadata
+*/
+
+/* The Universal selector */
+
+*{ 
+
+}
+
+/* Body attributes here */
+body {
+
+}
+header { background-color: khaki;}
+main { background-color: darkseagreen;}
+footer { background-color: beige;}
